@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.icon {
+    height: 18px;
+    width: 18px;
+}
+
+.input{
+    display: block;
+    width: 100%;
+    border-radius: 0.357rem;
+    border-width: 1px;
+    --tw-border-opacity: 1;
+    border-color: rgb(229 231 235 / var(--tw-border-opacity));
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 1.5rem;
+}
+
